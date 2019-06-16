@@ -90,3 +90,5 @@ ENV/
 
 .xml
 .iml
+./idea/
+.lan
